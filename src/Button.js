@@ -16,11 +16,11 @@ const propTypes = {
    *
    * buttons may be one of a variety of visual variants such as:
    *
-   * `'primary', 'secondary', 'success', 'danger', 'warning', 'info', 'dark', 'light', 'link'`
+   * `primary`, `secondary`, `success`, `danger`, `warning`, `info`, `dark`, `light`, `link`
    *
    * as well as "outline" versions (prefixed by 'outline-*')
    *
-   * `'outline-primary', 'outline-secondary', 'outline-success', 'outline-danger', 'outline-warning', 'outline-info', 'outline-dark', 'outline-light'`
+   * `outline-primary`, `outline-secondary`, `outline-success`, `outline-danger`, `outline-warning`, `outline-info`, `outline-dark`, `outline-light`
    */
   variant: PropTypes.string,
 
